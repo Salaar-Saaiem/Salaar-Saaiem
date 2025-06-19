@@ -1,7 +1,7 @@
-<!-- 🎯 Optional: Add a banner image named 'banner.png' in the repo for this to show -->
 <p align="center">
-  <img src="https://github.com/Salaar-Saaiem/Salaar-Saaiem/blob/main/banner.png" alt="Hi, I'm Saaiem" width="100%" />
+  <img src="Banner.jpg" alt="Saaiem Salaar's Banner" />
 </p>
+
 
 ## Hey, my name is SAAIEM SALAAR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -83,16 +83,7 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
 
 ### 📬 Connect with Me
 
-<style>
-  .social-icons a img {
-    transition: transform 0.2s ease-in-out;
-  }
-  .social-icons a:hover img {
-    transform: scale(1.2);
-  }
-</style>
-
-<p align="left" class="social-icons">
+<p align="center">
   <a href="mailto:Saaiemsalaar@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" />
   </a>
@@ -109,4 +100,5 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="Twitter X" width="40" />
   </a>
 </p>
+
 
