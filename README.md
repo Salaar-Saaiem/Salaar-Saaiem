@@ -61,9 +61,9 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
 ---
 
 ### 🎯 Interests
-> 👍 AI & Deep Learning  
-> 👍 Full Stack Web Development
-> 👍 App Development
+> 👍 AI & Deep Learning <br>
+> 👍 Full Stack Web Development <br>
+> 👍 App Development <br>
 > 👍 Machine Learning  
 
 ---
