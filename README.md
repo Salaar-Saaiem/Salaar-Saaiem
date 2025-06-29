@@ -87,6 +87,8 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
   <a href="https://github.com/Salaar-Saaiem">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salaar-Saaiem&show_icons=true&hide_border=true&theme=highcontrast&include_all_commits=true&count_private=true" />
   </a>
+</p>
+ <p>
   <a href="https://github.com/Salaar-Saaiem">
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salaar-Saaiem&layout=donut&theme=highcontrast&hide_border=true" />
   </a>
