@@ -70,25 +70,25 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
 
 ###  Featured Projects
 
-[![Garbage Classification](https://github-readme-stats.vercel.app/api/pin/?username=Salaar-Saaiem&repo=Garbage-Classification-using-ML&theme=radical)](https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML)
+[![Garbage Classification](https://github-readme-stats.vercel.app/api/pin/?username=Salaar-Saaiem&repo=Garbage-Classification-using-ML&theme=highcontrast)](https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML)
 
-[![Hybrid Voting System](https://github-readme-stats.vercel.app/api/pin/?username=Salaar-Saaiem&repo=Hybrid-Decentralized-Voting-System-using-Blockchain&theme=radical)](https://github.com/Salaar-Saaiem/Hybrid-Decentralized-Voting-System-using-Blockchain)
+[![Hybrid Voting System](https://github-readme-stats.vercel.app/api/pin/?username=Salaar-Saaiem&repo=Hybrid-Decentralized-Voting-System-using-Blockchain&theme=highcontrast)](https://github.com/Salaar-Saaiem/Hybrid-Decentralized-Voting-System-using-Blockchain)
 
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Salaar-Saaiem">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salaar-Saaiem&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salaar-Saaiem&theme=merko&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Salaar-Saaiem">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salaar-Saaiem&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salaar-Saaiem&show_icons=true&hide_border=true&theme=highcontrast&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/Salaar-Saaiem">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salaar-Saaiem&layout=compact&theme=dark&hide_border=true" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salaar-Saaiem&layout=donut&theme=highcontrast&hide_border=true" />
   </a>
 </p>
 
