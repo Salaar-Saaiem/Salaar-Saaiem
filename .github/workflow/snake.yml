@@ -12,7 +12,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ Salaar-Saaiem }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
