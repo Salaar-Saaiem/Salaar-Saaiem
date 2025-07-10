@@ -75,7 +75,6 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
 
 ###  <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Featured Projects
 <div align="center">
-<table>
   <tr>
     <td>
       <a href="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML">
@@ -88,7 +87,6 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
       </a>
     </td>
   </tr>
-</table>
 </div>
 
 
