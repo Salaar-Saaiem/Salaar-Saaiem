@@ -94,7 +94,9 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
   </a>
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Salaar-Saaiem&theme=react-dark&hide_border=true&area=true)
+![GitHub Snake Light](https://github.com/Salaar-Saaiem/Salaar-Saaiem/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://github.com/Salaar-Saaiem/Salaar-Saaiem/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
