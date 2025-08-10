@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/Salaar-Saaiem?style=for-the-badge" alt="GitHub Stars"/>
 </p>
 
-I’m Computer Science student, a developer who enjoys learning new skills and technologies. I have experience in Machine Learning, Blockchain and Web Devlopment. You can find my projects in [repositories](https://github.com/Salaar-Saaiem?tab=repositories).
+I’m Computer Science student, a developer who enjoys learning new skills and technologies. I have experience in Machine Learning, Blockchain and Web Devlopment. You can find my projects in [repositories](https://github.com/Salaar-Saaiem?tab=repositories), and my [Portfolio](https://salaar-saaiem.github.io/) here. 
 
 <p align="center">
   <img alt="Let's Code" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="26%">
