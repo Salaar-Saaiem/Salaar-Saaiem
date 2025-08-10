@@ -130,7 +130,7 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/salaarsaaiem525/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="40" />
-  </a>
+<!--  </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/salaar_saaiem/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" />
@@ -139,6 +139,6 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
   <a href="https://x.com/salaar_saaiem/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="Twitter X" width="40" />
   </a>
-</p>
+</p>-->
 
 
