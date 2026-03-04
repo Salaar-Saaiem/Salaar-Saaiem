@@ -125,11 +125,11 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
 
 <p align="center">
   <a href="mailto:Saaiemsalaar@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" />
+    <img src="https://github.com/Salaar-Saaiem/Salaar-Saaiem/blob/main/gifs/Mail.gif" alt="Gmail" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/salaarsaaiem525/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="40" />
+    <img src="https://github.com/Salaar-Saaiem/Salaar-Saaiem/blob/main/gifs/LinkedIN.gif" alt="LinkedIn" width="40" />
 <!--  </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/salaar_saaiem/" target="_blank">
