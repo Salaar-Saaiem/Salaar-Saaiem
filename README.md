@@ -89,7 +89,6 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
   </tr>
 </div>
 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats
 
 <p align="center">
