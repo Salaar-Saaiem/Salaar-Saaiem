@@ -3,9 +3,11 @@
 </p>
 
 
-## Hey, my name is SAAIEM SALAAR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  <h2>Hey, my name is SAAIEM SALAAR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+</div>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Salaar-Saaiem&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Salaar-Saaiem"/> 
   <img src="https://img.shields.io/github/stars/Salaar-Saaiem?style=for-the-badge" alt="GitHub Stars"/>
 </p>
